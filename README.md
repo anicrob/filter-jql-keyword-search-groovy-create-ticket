@@ -1,4 +1,4 @@
-# Filer Keyword Search & Attach CSV of Results on Newly Created Jira ticket.
+# Filer Keyword Search & Attach CSV of Results on Newly Created Jira ticket
 
 
 ## Description
